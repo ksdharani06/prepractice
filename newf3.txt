@@ -1,0 +1,4 @@
+new featre file f3 forgoted to commit with newf3 file.so now i am commmiting this file with previous commit with amend and force push
+
+
+we can again add-->commit newly but not good practice using amend is good
